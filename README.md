@@ -7,5 +7,5 @@ This repository contains my personal study notes on the ML system development ch
 ---
 ## Contents <p id="contents"></p>
 
-- [ML System's development: common challenges](study-notes/challenges/)
+- <a href="https://github.com/KattsonBastos/mlops-journey/blob/main/study-notes/challenges.md"> ML System's development: common challenges]</a>
 - (more coming..)
