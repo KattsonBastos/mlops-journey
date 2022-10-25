@@ -7,5 +7,5 @@ This repository contains my personal study notes on the ML system development ch
 ---
 ## Contents <p id="contents"></p>
 
-- [ML System's development: common challenges](study-notes/challenges/challenges.md)
+- [ML System's development: common challenges](study-notes/challenges/)
 - (more coming..)
